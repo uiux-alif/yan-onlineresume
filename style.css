@@ -80,7 +80,7 @@ body {
 .left-panel {
   position: sticky;
   top: var(--gap);
-  height: calc(100vh - var(--gap) * 2);
+  height: auto;
   overflow-y: auto;
   background: var(--surface);
   border: 1px solid var(--border);
